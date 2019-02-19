@@ -4,12 +4,13 @@
 2. 锋利的`jquery`
 3. `css`世界
 4. `GitHub`入门与实践
-5. JavaScript+DOM编程艺术
-6. `jquery`权威指南
-7. `Node.js`入门经典
-8. `OReilly css.Secrets`
-9. Sublime text全程指南
-10. 编程之美
-11. 编写可维护的JavaScript
-12. 编译原理
-13. 深入浅出Node.js
+5. JavaScript高级程序设计第3版
+6. JavaScript+DOM编程艺术
+7. `jquery`权威指南
+8. `Node.js`入门经典
+9. `OReilly css.Secrets`
+10. Sublime text全程指南
+11. 编程之美
+12. 编写可维护的JavaScript
+13. 编译原理
+14. 深入浅出Node.js
